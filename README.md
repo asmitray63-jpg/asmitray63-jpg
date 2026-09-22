@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Asmit Kumar Ray
 
-<!--
-**asmitray63-jpg/asmitray63-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE (AI/ML) Student | App Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech Artificial Intelligence & Machine Learning student focused on building real-world software projects and learning by creating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 App Developer & Student Developer
+- 🤖 Interested in AI/ML and practical software development
+- 🚀 Founder & Developer of **Kids Fun Learning World**
+- 🛠️ I enjoy turning ideas into working projects
+
+## 🌟 Featured Project
+
+### Kids Fun Learning World
+
+An interactive educational app designed to make learning more fun and engaging for kids.
+
+🔗 **Project:** https://asmitray63-jpg.github.io/kids-fun-learning-world/
+
+🔗 **Founder Page:** https://asmitray63-jpg.github.io/kids-fun-learning-world/founder.html
+
+## 💻 Technologies
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Android Development
+- AI/ML
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/asmit-kumar-ray
+- 🐙 GitHub: https://github.com/asmitray63-jpg
+
+---
+
+⭐ Thanks for visiting my profile!
